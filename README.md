@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F172A&height=220&section=header&text=NaYoung%27s%20GitHub&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Learning%20Backend%20Development%20%7C%20Exploring%20Frontend&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFF8E7,100:FDF6E3&height=220&section=header&text=NaYoung%27s%20GitHub&fontSize=45&fontColor=6B7F00&animation=fadeIn&fontAlignY=38&desc=Learning%20Backend%20Development%20%7C%20Exploring%20Frontend&descAlignY=58&descSize=16&descColor=859900)
 ## 🛠 Skills
 
 #### Backend
@@ -62,10 +62,11 @@
 
 ## 📊 GitHub Stats
 
-[![](https://raw.githubusercontent.com/gimn70009/gimn70009/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/gimn70009/gimn70009/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/gimn70009/gimn70009/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/gimn70009/gimn70009/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/gimn70009/gimn70009/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/gimn70009/gimn70009/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/gimn70009/gimn70009/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/gimn70009/gimn70009/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/gimn70009/gimn70009/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/gimn70009/gimn70009/main/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
