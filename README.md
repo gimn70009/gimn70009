@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFF8E7,100:FDF6E3&height=220&section=header&text=NaYoung%27s%20GitHub&fontSize=45&fontColor=6B7F00&animation=fadeIn&fontAlignY=38&desc=Learning%20Backend%20Development%20%7C%20Exploring%20Frontend&descAlignY=58&descSize=16&descColor=859900)
+![snake gif](https://raw.githubusercontent.com/gimn70009/gimn70009/output/github-contribution-grid-snake.svg)
 ## 🛠 Skills
 
 #### Backend
@@ -55,10 +56,6 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/gimn70009/gimn70009/output/github-contribution-grid-snake.svg)
 
 ## 📊 GitHub Stats
 
