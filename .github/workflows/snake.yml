@@ -9,19 +9,17 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: gimn70009
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=6B7F00&color_dots=FFF8E7,FDF6E3,E9E4C5,D6D38A,A3A847
+            dist/github-snake.svg?palette=github-light&color_snake=6B7F00&color_dots=#FFF8E7,#FDF6E3,#E9E4C5,#D6D38A,#A3A847
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
