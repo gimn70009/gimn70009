@@ -56,6 +56,10 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/gimn70009/gimn70009/output/github-contribution-grid-snake.svg)
+
 ## 📊 GitHub Stats
 
 [![](https://raw.githubusercontent.com/gimn70009/gimn70009/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
